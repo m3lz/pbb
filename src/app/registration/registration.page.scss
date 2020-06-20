@@ -1,0 +1,26 @@
+ion-label{
+    color:#000;
+    opacity: .8;
+    font-size: 13px;
+    display: block;
+}
+[transparent]{
+    --background: transparent;
+}
+ion-input{
+    --color: #000;
+    --padding-bottom: 15px;
+    --padding-top: 15px;
+    --padding-star: 5px;
+    font-size: 15px;
+    text-indent: 1px;
+    padding-left: 10px !important;
+}
+ion-title{
+    font-family: "Open Sans", sans-serif !important;
+    margin-left: auto;padding-left: 90px; font-size: 25px;
+    color:var(--theme-black);
+}
+[linespace]{
+    height: 30px;
+}

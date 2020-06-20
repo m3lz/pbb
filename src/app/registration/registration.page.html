@@ -1,0 +1,38 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-title>Register</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content color="primary">
+  <form>
+    <ion-item transparent>
+      <ion-label position="floating">First name</ion-label>
+      <ion-input type="text" required></ion-input>
+    </ion-item>
+
+    <ion-item transparent>
+      <ion-label position="floating">Last name</ion-label>
+      <ion-input type="text" required></ion-input>
+    </ion-item>
+
+    <ion-item transparent>
+      <ion-label position="floating">Email</ion-label>
+      <ion-input type="text" required></ion-input>
+    </ion-item>
+
+    <ion-item transparent>
+      <ion-label position="floating">Password</ion-label>
+      <ion-input type="password" required></ion-input>
+    </ion-item>
+
+    &nbsp;
+<div linespace></div>
+<ion-button type="submit" color="secondary" shape="round" fill="solid" size="large" expand="block">Sign Up</ion-button>
+<ion-label class="ion-text-center">Have a Account? <span class="link-button" [routerLink]="['/login']">Sign In</span>
+</ion-label>
+  </form>
+</ion-content>

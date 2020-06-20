@@ -1,0 +1,26 @@
+<ion-header>
+
+</ion-header>
+
+<ion-content class="auth-form">
+  <div class="login-header ion-padding">
+    <img class="logo-img" src="assets/img/logo4.png">
+    </div>
+    
+    <div>
+      <div heading-column-lr>
+        <h1 big-heading>Welcome</h1>
+        <h2 small-heading>The easiest way</h2>
+      </div>
+    </div>
+    &nbsp;
+  <ion-grid>
+    <ion-row>
+      <ion-col align-self-center>
+        <ion-button [routerLink]="['/login']" expand="block" color="primary">Login</ion-button>
+        &nbsp;
+        <ion-button [routerLink]="['/registration']" expand="block" color="secondary">Register</ion-button>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

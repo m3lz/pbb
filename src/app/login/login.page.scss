@@ -1,0 +1,61 @@
+.auth-form ion-input,
+.auth-form ion-label,
+.auth-form ion-col,
+.auth-form ion-item {
+    --ion-background-color:#E8EAF6;
+    height: 60px;
+    margin-top: 20px;
+}
+ion-label{
+    color:#000;
+    opacity: .8;
+    font-size: 13px;
+    display: block;
+}
+[transparent]{
+    --background: transparent;
+}
+ion-input{
+    --color: #000;
+    --padding-bottom: 15px;
+    --padding-top: 15px;
+    --padding-star: 5px;
+    font-size: 15px;
+    text-indent: 1px;
+    padding-left: 10px !important;
+}
+[linespace]{
+    height: 30px;
+}
+.forget-password{
+    color: #000;
+    font-size: 13px;
+    display: block;
+    text-align: right;
+    padding: 10px;
+}
+[icon-small]{
+    width: 30px;
+}
+ion-item{
+    --highlight-color-focused:transparent;
+    --highlight-height:0;
+    --highlight-color-invalid:#000;
+    --highlight-color-valid:#DDD;
+    --min-height: 65px;
+    --padding-start: 0;
+}
+ion-content{
+
+    --background:#FFFFFF;
+}
+[big-heading]{
+    font-family: "Open Sans", sans-serif !important;
+    margin-left: auto;padding-left: 20px; font-size: 35px;
+    color:var(--theme-black);
+}
+[small-heading]{
+    font-family: "Open Sans", sans-serif !important;
+    margin-left: auto;padding-left: 20px; font-size: 18px;
+    color:var(--theme-black);
+}
