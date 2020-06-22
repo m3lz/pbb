@@ -1,6 +1,30 @@
 Nama Anggota
--	Mailany	– 4311931003
+-	Mailany	– 4311931003 
 -	Rohima Putri Amalia – 4311811043
 -	Mega Hasanatang – 4311811035
 
+- Jobdesk Mailany
 
+Merancang desain program
+Melakukan pemrograman aplikasi
+Menyiapkan screenshoot aplikasi
+Menyiapkan video demo aplikasi
+
+- Jobdesk Rohima
+
+Merancang desain aplikasi
+Merancang desain poster dan laporan
+
+- Jobdesk Mega
+
+Merancang desain aplikasi
+Merancang desain poster dan laporan
+
+1. Link Video Demo Aplikasi Client Youtube
+https://youtu.be/XGcdxvXdwY8
+
+2. Link Video Demo Aplikasi Client Server Youtube
+https://youtu.be/oEK_e9RyBlo
+
+3. Link Github
+https://github.com/m3lz/pbb.git
